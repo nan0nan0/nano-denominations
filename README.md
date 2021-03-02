@@ -1,4 +1,8 @@
-[ DRAFT ]
+[ DRAFT ] this document will be tracking the following discussions:
+
+https://github.com/nanocurrency/nano-docs/pull/466
+https://forum.nano.org/t/discussion-regarding-unit-names/108/31
+
 
 # Nano currency denominations and their symbols
 
