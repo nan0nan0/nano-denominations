@@ -6,7 +6,9 @@ A List of the Nanocurrency Denomninations with symbols that are either commonly 
 
 ## Unit Naming
 
-The Exchange Pair of Nano currency is known as XRB/NANO, which is equal to 1 Mnano or 1,000,000 nano. Because the Nano currency is highly dvisible, it is useful to familiraise yourself with the units and denominaitons, especially if you are developing in Nano.
+**The Exchange Pair of Nano currency known as XRB/NANO is equal to 1 Mnano or 1,000,000 nano.** 
+
+Because the Nano currency is highly dvisible, it is useful to familiraise yourself with the units and denominaitons, especially if you are developing in Nano. There is a slight public confusion over the naming system in Nano, as the public are familiar with the Exchange Pair Unit (XRB/NANO) as the 'nano' unit of Nanocurrency and not the proper 10<sup>27</sup> of raw that constitutes one nano unit. 
 
 (Read more about Nano Currency here - https://nano.org)
 
@@ -47,14 +49,7 @@ Nano's smallest unit is 1 raw. The largest unit is 1Gnano.
 
 ## Nano Denomination History
 
-Initially Nano Currency was called Raiblocks,  The initial mint of and subsequent burn of Nano currency resulted in a distribution 133,248,297 individual units, known as coins. Becasue of the distribution, there can only be superunits that go up to one hundred million Nano, as there is not enough coin supply to reach any higher denomination. 
-
-Nano has a very high resolution for a currrency, as it is precise to 10<sup>30</sup> decimal places, or one . Nano could contain up to thirty subunit terms to describe each decimal place. For brevity we have only included the first 10 subunits and the first 5 superunits.
-
-
-## Precision	
-
-Nano is precise to 10<sup>30</sup> decimal places.
+Initially Nano Currency was called Raiblocks. The initial mint of and subsequent burn of Nano currency resulted in a distribution 133,248,297 individual raiblocks. 
 
 ### Nano Superunits	
 
@@ -72,10 +67,13 @@ Nano is precise to 10<sup>30</sup> decimal places.
 
 ### Ideas for Nano Symbols
 
-It has been mentioned that in absence of a Nano unicode charater, another symbol could be used as a sign to denote Nano. Here are a few signs that may be suitable.
+It has been mentioned that in absence of a true Nano unicode charater, another symbol could be used as a sign to denote Nano. Here are a few signs that are available and may be suitable.
 
-
-
+- n  | Unicode Character “n” (U+006E) | e.g. n100
+- ñ  | Unicode Character “ñ” (U+00F1) | e.g. ñ100
+- 𝑛  | Unicode Character “𝑛” (U+1D45B) | e.g. 𝑛100
+- ⋂  | Unicode Character “⋂” (U+22c2) | e.g. ⋂100
+- ∩  | Unicode Character “∩” (U+2229) | e.g. ∩100
 
 
 
