@@ -26,8 +26,8 @@ Nano is precise to 10<sup>30</sup> decimal places.
 | 1 kn | knano | One thousandth of a Nano  | 0.001  |  1⁄1,000 |
 | 1 n | nano | One millionth of a Nano  | 0.0000001  |  1⁄1,000,000 |
 | 1 mn | mnano | One billionth of a Nano  | 0.0000000001  |  1⁄10<sup>9</sup>	|
-| 1 μn | μnano | One billionth of a Nano  | 0.0000000000001  | 1⁄10<sup>12</sup>	|
-| 1 raw | raw | One billionth of a Nano  | 0.0000000000000000000000000000001  |  1⁄10<sup>30</sup>	|
+| 1 μn | μnano | One trillionth of a Nano  | 0.0000000000001  | 1⁄10<sup>12</sup>	|
+| 1 raw | raw | One nonillionth of a Nano  | 0.0000000000000000000000000000001  |  1⁄10<sup>30</sup>	|
 
 ### Ideas for Nano Symbols
 
