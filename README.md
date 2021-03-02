@@ -4,13 +4,17 @@
 
 A List of the Nanocurrency Denomninations with symbols that are either commonly used or proposed. This is *not* an official list and is open to comment and discussion. Please raise an issue if you feel this information is incorrect and wish to amend it.
 
+## Unit Naming
+
+The Exchange Pair of Nano currency is known as XRB/NANO, which is equal to 1 Mnano or 1,000,000 nano. Because the Nano currency is highly dvisible, it is useful to familiraise yourself with the units and denominaitons, especially if you are developing in Nano.
+
 (Read more about Nano Currency here - https://nano.org)
 
 ## Smallest and Largest Units of Nano currency
 
 Nano's smallest unit is 1 raw. The largest unit is 1Gnano. 
 
-| 1 raw | | | | | | 1 unano | 1mnano | 1knano | 1 Mnano | 1 Gnano | |
+| 1 raw | | | | | | 1 unano | 1mnano | 1knano | 1 nano | 1 Mnano | 1 Gnano | 
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 10<sup>0</sup> | 10<sup>3</sup> | 10<sup>6</sup>  | 10<sup>9</sup>  | 10<sup>12</sup> | 10<sup>15</sup> | 10<sup>18</sup> | 10<sup>21</sup>  | 10<sup>24</sup>  | 10<sup>27</sup> | 10<sup>30</sup>  | 10<sup>33</sup>  |
 
