@@ -50,20 +50,7 @@ Nano's smallest unit is 1 raw. The largest unit is 1Gnano.
 ## Nano Denomination History
 
 Initially Nano Currency was called Raiblocks. The initial mint of and subsequent burn of Nano currency resulted in a distribution 133,248,297 individual raiblocks. 
-
-### Nano Superunits	
-
-1000	Gnano
-
-### Nano Subunits	
-
-| Unit Symbol | Unit Name  | Unit Description  | Unit decimal amount  | Unit Expression |
-|---|---|---|---|---|
-| 1 kn | knano | One thousandth of a Nano  | 0.001  |  1 ⁄ 1,000 |
-| 1 n | nano | One millionth of a Nano  | 0.0000001  |  1 ⁄ 1,000,000 |
-| 1 mn | mnano | One billionth of a Nano  | 0.0000000001  |  1 ⁄ 10<sup>9</sup>	|
-| 1 μn | μnano | One trillionth of a Nano  | 0.0000000000001  | 1 ⁄ 10<sup>12</sup>	|
-| 1 raw | raw | One nonillionth of a Nano  | 0.0000000000000000000000000000001  |  1 ⁄ 10<sup>30</sup>	|
+[TODO - history]
 
 ### Ideas for Nano Symbols
 
